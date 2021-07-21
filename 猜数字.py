@@ -1,4 +1,4 @@
-# 该实例演示了数字猜谜游戏
+# 该实例演示了数字猜谜游戏.
 import random
 
 number = random.randrange(1, 100)
@@ -14,4 +14,3 @@ while guess != number:
         print("猜的数字小了...")
     elif guess > number:
         print("猜的数字大了...")
-# 阿萨大手大aa
