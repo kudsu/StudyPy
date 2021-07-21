@@ -14,4 +14,4 @@ while guess != number:
         print("猜的数字小了...")
     elif guess > number:
         print("猜的数字大了...")
-#         阿萨大手大
+# 阿萨大手大
